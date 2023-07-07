@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**0xtrou/0xtrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> About Me </h2>
+  
+- 🌱 I’m currently contributing to [solo.engineer](https://solo.engineer)
 
-Here are some ideas to get you started:
+- 👯 I’m eager to talk about blockchain-based projects, no matter with multichain development. (currently have experience of Solana, Aptos, SUI and EVM-compatible blockchains)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 > Stats </h2>
+
+<p align = 'center'>
+  <img align="center" height="200px" src="https://streak-stats.demolab.com?user=0xtrou&theme=merko&hide_border=true" alt="0xtrou" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/?username=0xtrou&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=40" />
+  <br/>
+  <br/>
+  <img align='center' height="350px" width="400px" src ='https://api.githubtrends.io/user/svg/0xtrou/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark'>
+  <img align='center' height="350px" width="400px" src ='https://api.githubtrends.io/user/svg/0xtrou/langs?time_range=one_year&use_percent=True&include_private=True&group=private&loc_metric=changed&theme=dark'>
+  <br/>
+  <br/>
+</p>
